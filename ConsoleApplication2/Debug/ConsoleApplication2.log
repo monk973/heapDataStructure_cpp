@@ -1,0 +1,9 @@
+﻿  Heap.cpp
+c:\users\moula\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\heap.cpp(14): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\moula\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\heap.cpp(15): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\moula\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\heap.cpp(18): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\moula\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\heap.cpp(20): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\moula\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\heap.cpp(23): warning C4244: '인수': 'float'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ConsoleApplication2.cpp
+  코드를 생성하고 있습니다...
+  ConsoleApplication2.vcxproj -> C:\Users\moula\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
